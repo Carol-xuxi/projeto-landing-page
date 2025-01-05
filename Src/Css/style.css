@@ -2,6 +2,7 @@
 
 body {
    font-family: 'Public Sans', sans-serif;
+
 }
 
 * {
@@ -123,15 +124,15 @@ html {
 }
 
 .conteudo-principal .paineis .projeto1 {
-   background-image: url('../Css/image/painel1.jpg');
+   background-image: url('image/painel1.jpg');
 }
 
 .conteudo-principal .paineis .projeto2 {
-   background-image: url('../Css/image/painel2.jpg');
+   background-image: url('image/painel2.jpg');
 }
 
 .conteudo-principal .paineis .projeto3 {
-   background-image: url('../Css/image/painel3.jpg');
+   background-image: url('image/painel3.jpg');
 }
 
 .conteudo-principal .paineis .imagem-painel.mostrar{
@@ -145,7 +146,7 @@ html {
 }
 
 .conteudo-principal .paineis .seta {
-   background-image: url('../Css/image/seta.png');
+   background-image: url('image/seta.png');
    background-repeat: no-repeat;
    background-position: center;
    background-size: contain;
